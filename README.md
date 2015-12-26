@@ -1,5 +1,5 @@
 # ModSecurity-pcap
-Have you ever wanted to run ModSecurity out of line without a webserver? Have you been told it's impossible? ModSecurity v3 makes anything possimpible! This is the ModSecurity v3 connector for a pcap file.
+Have you ever wanted to run ModSecurity out of line without a webserver? Have you been told it's impossible? ModSecurity v3 makes anything possible! This is the ModSecurity v3 connector for a pcap file.
 
 This is also a good example of how to use libmodsecurity's C++ interfaces.
 
